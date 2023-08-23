@@ -1,0 +1,191 @@
+.logo {
+  height: 20px;
+
+  margin-left: 25px;
+}
+.navbar {
+  margin: 0px !important;
+  padding: 0px !important;
+  background-color: rgba(255, 255, 255, 0) !important;
+}
+.hamburger {
+  width: 60px;
+}
+.searchbar {
+  border-top-left-radius: 40px !important;
+  border-bottom-left-radius: 40px !important;
+  width: 500px !important;
+  height: 43px !important;
+}
+
+.searchbutton {
+  border-top-right-radius: 40px !important;
+  border-bottom-right-radius: 40px !important;
+  background-color: rgba(243, 241, 241, 0.509);
+  border-color: rgb(233, 228, 228);
+}
+
+.searchbutton:hover {
+  background-color: rgb(227, 227, 227) !important;
+  color: black !important;
+  border-color: rgb(233, 228, 228);
+}
+
+.icons i {
+  margin: 10px !important;
+  font-size: 20px !important;
+}
+
+.notifications {
+  font-size: 9px !important;
+  top: 24px !important;
+  right: -5px !important;
+}
+
+.mic {
+  left: 20px;
+  font-size: 18px !important;
+}
+
+.greyhover:hover {
+  background-color: rgb(236, 233, 233) !important;
+}
+
+.greyhover {
+  border-radius: 180% !important;
+  height: 66px;
+  border: none !important;
+  outline: none !important;
+}
+.greyhover:focus {
+  border: none !important;
+  outline: none !important;
+}
+
+.pp {
+  border-radius: 50%;
+  height: 32px;
+}
+
+.ppbutton {
+  border: none !important;
+  outline: none !important;
+}
+
+.spacing {
+  padding: 0px 0px 0px 0px !important;
+}
+
+.imagemenu {
+  width: 20px !important;
+  height: 20px !important;
+}
+.flex-container-vertical {
+  flex-direction: column !important;
+  display: flex !important;
+  width: 69px !important;
+  height: 69px !important;
+  margin: 0px !important;
+  float: left !important;
+  /* background-color: blue !important; */
+}
+
+.flexboxvertical {
+  font-size: 13px !important;
+  margin: 1px 0px 0px 5px !important;
+  text-align: start !important;
+}
+.verticalicons {
+  height: 60px;
+  width: 65px;
+  border: none !important;
+  outline: none !important;
+  background-color: white !important;
+  font-size: 9px !important;
+  letter-spacing: 0.03px !important;
+  margin: 3.5px !important;
+  padding: 0px !important;
+}
+
+.verticalicons:hover {
+  border: none !important;
+  outline: none !important;
+  background-color: rgba(233, 230, 230, 0.303) !important;
+  border-radius: 10px !important;
+}
+.ico {
+  font-size: 20px !important;
+}
+.b {
+  float: right !important;
+  width: 1300px !important;
+  display: flex;
+  flex-direction: row;
+  overflow: scroll;
+  border-radius: 8px !important;
+  white-space: nowrap;
+}
+
+.btn-1 {
+  margin-right: 10px !important;
+  /* height: fit-content !important; */
+  font-size: 12px !important;
+  height: 25px !important;
+  padding-bottom: 25px !important;
+  font-weight: 100px !important;
+  background-color: rgba(180, 179, 179, 0.223);
+}
+
+.all {
+  background-color: black !important;
+  color: white !important;
+}
+
+.horizontal-scroll::-webkit-scrollbar {
+  background-color: transparent !important;
+}
+
+.hi {
+  margin-left: 100px !important;
+  margin-top: 50px !important;
+}
+
+.smallthumbnail {
+  width: 36px;
+  height: 36px;
+  border-radius: 100%;
+  float: left;
+}
+
+.padd {
+  padding: 0px;
+}
+
+.smolrow {
+  margin: 0px;
+  padding: 0px;
+}
+
+.smol {
+  padding: 0px;
+  margin: 0px;
+}
+.bold {
+  padding: 0px;
+  height: 39px;
+}
+.boldtext {
+  padding: 0px;
+  margin: 0px;
+  text-align: left;
+  font-size: 13px;
+  padding-top: 0px;
+}
+
+.card {
+  border: none;
+}
+.col {
+  padding: 0px !important;
+  margin: auto;
+}
